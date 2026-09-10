@@ -1,3 +1,4 @@
+# Verifies the Python environment has the required data-analysis packages installed and prints their versions.
 import pandas
 import numpy
 import matplotlib
